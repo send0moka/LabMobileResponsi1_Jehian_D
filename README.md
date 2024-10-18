@@ -25,4 +25,4 @@
 
 ## Penjelasan
 
-<a href="https://github.com/send0moka/LabMobileResponsi1_Jehian_D/blob/main/LabMobileResponsi1_Jehian_D.pdf">Disini</a>
+<a href="https://github.com/send0moka/LabMobileResponsi1_Jehian_D/blob/main/docs/LabMobileResponsi1_Jehian_D.pdf">Disini</a>
